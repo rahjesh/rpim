@@ -1,0 +1,6 @@
+
+entity Account {
+    id Int
+	name String
+}
+
